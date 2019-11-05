@@ -1,2 +1,2 @@
 # Wigner-Mathieu
-Wigner function of Mathieu Polynomials
+Wigner Function of Mathieu Polynomials
